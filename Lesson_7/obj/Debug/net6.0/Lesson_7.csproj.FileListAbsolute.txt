@@ -1,0 +1,15 @@
+D:\MyGit\Evening_Seminar_C#\Lesson_7\bin\Debug\net6.0\Lesson_7.exe
+D:\MyGit\Evening_Seminar_C#\Lesson_7\bin\Debug\net6.0\Lesson_7.deps.json
+D:\MyGit\Evening_Seminar_C#\Lesson_7\bin\Debug\net6.0\Lesson_7.runtimeconfig.json
+D:\MyGit\Evening_Seminar_C#\Lesson_7\bin\Debug\net6.0\Lesson_7.dll
+D:\MyGit\Evening_Seminar_C#\Lesson_7\bin\Debug\net6.0\Lesson_7.pdb
+D:\MyGit\Evening_Seminar_C#\Lesson_7\obj\Debug\net6.0\Lesson_7.csproj.AssemblyReference.cache
+D:\MyGit\Evening_Seminar_C#\Lesson_7\obj\Debug\net6.0\Lesson_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGit\Evening_Seminar_C#\Lesson_7\obj\Debug\net6.0\Lesson_7.AssemblyInfoInputs.cache
+D:\MyGit\Evening_Seminar_C#\Lesson_7\obj\Debug\net6.0\Lesson_7.AssemblyInfo.cs
+D:\MyGit\Evening_Seminar_C#\Lesson_7\obj\Debug\net6.0\Lesson_7.csproj.CoreCompileInputs.cache
+D:\MyGit\Evening_Seminar_C#\Lesson_7\obj\Debug\net6.0\Lesson_7.dll
+D:\MyGit\Evening_Seminar_C#\Lesson_7\obj\Debug\net6.0\refint\Lesson_7.dll
+D:\MyGit\Evening_Seminar_C#\Lesson_7\obj\Debug\net6.0\Lesson_7.pdb
+D:\MyGit\Evening_Seminar_C#\Lesson_7\obj\Debug\net6.0\Lesson_7.genruntimeconfig.cache
+D:\MyGit\Evening_Seminar_C#\Lesson_7\obj\Debug\net6.0\ref\Lesson_7.dll
